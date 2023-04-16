@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactya/proyecto017/static/css/main.ac7892c0.css",
+    "main.js": "/reactya/proyecto017/static/js/main.134c1b46.js",
+    "static/js/787.ee3fb81a.chunk.js": "/reactya/proyecto017/static/js/787.ee3fb81a.chunk.js",
+    "index.html": "/reactya/proyecto017/index.html",
+    "main.ac7892c0.css.map": "/reactya/proyecto017/static/css/main.ac7892c0.css.map",
+    "main.134c1b46.js.map": "/reactya/proyecto017/static/js/main.134c1b46.js.map",
+    "787.ee3fb81a.chunk.js.map": "/reactya/proyecto017/static/js/787.ee3fb81a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7892c0.css",
+    "static/js/main.134c1b46.js"
+  ]
+}
